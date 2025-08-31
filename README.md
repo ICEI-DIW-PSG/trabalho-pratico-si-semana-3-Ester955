@@ -10,17 +10,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Ester Cristine de Assis Ferreira
+- Matricula: 1625330
+- Proposta de projeto escolhida: 4. Coleções e Itens	
+- Breve descrição sobre seu projeto: A proposta é explorar o mundo das series de jogos da 'Rockstar Games', GTA (Grand theft auto). Como, história, notícias, personagens, conquistas,etc.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![wireframe](public/imagens/wireframe.png)
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![alt text](public/imagens/HomePage.png)
